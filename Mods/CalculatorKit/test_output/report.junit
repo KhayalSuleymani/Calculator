@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='CalculatorKitTests.xctest' tests='15' failures='0'>
+  <testsuite name='CalculatorKitTests.OperatorTests' tests='11' failures='0'>
+    <testcase classname='CalculatorKitTests.OperatorTests' name='testDivide' time='0.003'/>
+    <testcase classname='CalculatorKitTests.OperatorTests' name='testFloatingDivide' time='0.001'/>
+    <testcase classname='CalculatorKitTests.OperatorTests' name='testFloatingNearZeroDivide' time='0.001'/>
+    <testcase classname='CalculatorKitTests.OperatorTests' name='testHighNumberDivide' time='0.001'/>
+    <testcase classname='CalculatorKitTests.OperatorTests' name='testHighNumberMultiply' time='0.000'/>
+    <testcase classname='CalculatorKitTests.OperatorTests' name='testMinus' time='0.001'/>
+    <testcase classname='CalculatorKitTests.OperatorTests' name='testMultiply' time='0.001'/>
+    <testcase classname='CalculatorKitTests.OperatorTests' name='testPlus' time='0.001'/>
+    <testcase classname='CalculatorKitTests.OperatorTests' name='testValueDivideOnZero' time='0.001'/>
+    <testcase classname='CalculatorKitTests.OperatorTests' name='testZeroDivide' time='0.001'/>
+    <testcase classname='CalculatorKitTests.OperatorTests' name='testZeroDivideOnValue' time='0.001'/>
+  </testsuite>
+  <testsuite name='CalculatorKitTests.SingleOperatorTests' tests='4' failures='0'>
+    <testcase classname='CalculatorKitTests.SingleOperatorTests' name='testClear' time='0.001'/>
+    <testcase classname='CalculatorKitTests.SingleOperatorTests' name='testReRotate' time='0.001'/>
+    <testcase classname='CalculatorKitTests.SingleOperatorTests' name='testRotate' time='0.001'/>
+    <testcase classname='CalculatorKitTests.SingleOperatorTests' name='testRotateZero' time='0.001'/>
+  </testsuite>
+</testsuites>
